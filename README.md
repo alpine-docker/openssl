@@ -2,7 +2,7 @@
 
 A useful simple openssl container running in alpine Linux
 
-[![DockerHub Badge](http://dockeri.co/image/alpine/git)](https://hub.docker.com/r/alpine/openssl/)
+[![DockerHub Badge](http://dockeri.co/image/alpine/openssl)](https://hub.docker.com/r/alpine/openssl/)
 
 ### Github Repo
 
