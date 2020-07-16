@@ -9,7 +9,7 @@ set -e
 
 image="alpine/openssl"
 
-docker build --no-cache -t ${image}
+docker build --no-cache -t ${image} .
 docker tag ${image} ${image}:latest
 
 if [[ "$TRAVIS_BRANCH" == "master" && "$TRAVIS_PULL_REQUEST" == false ]]; then
