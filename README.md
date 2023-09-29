@@ -8,7 +8,7 @@ A useful simple openssl container running in alpine Linux
 
 https://github.com/alpine-docker/openssl
 
-### travis CI build logs
+### Travis CI build logs
 
 https://travis-ci.org/alpine-docker/openssl
 
