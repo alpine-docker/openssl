@@ -1,3 +1,5 @@
+This repo has been archived. Follow up repo at [https://github.com/alpine-docker/multi-arch-libs/tree/master/httpie](https://github.com/alpine-docker/multi-arch-libs/tree/master/openssl)
+
 ### docker-openssl-alpine
 
 A useful simple openssl container running in alpine Linux
